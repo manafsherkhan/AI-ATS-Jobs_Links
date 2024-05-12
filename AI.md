@@ -1,2 +1,10 @@
-1. https://syllaby.io/
-2. 
+1. https://syllaby.io/  (Find viral topics, write scripts, create AI videos)
+2. https://claude.ai/login?returnTo=%2F%3F (Chatgpt Alternative)
+3. https://zety.com/  (resume builder)
+4. https://www.beautiful.ai/  (create beautiful presentation)
+5. https://hackertyper.net/ (transform in to hacker)
+6. https://stockimg.ai/  (Design and Visual Content)
+7. https://10web.io/  (AI Website Builder)
+8. https://fastreply.io/  (Grow your Twitter/X followers)
+9. https://cleanvoice.ai/ (Editing your Podcast)
+10. https://fastpedia.io/  (900 + AI tools Directory)
