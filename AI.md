@@ -8,3 +8,7 @@
 8. https://fastreply.io/  (Grow your Twitter/X followers)
 9. https://cleanvoice.ai/ (Editing your Podcast)
 10. https://fastpedia.io/  (900 + AI tools Directory)
+11. https://aithor.com/  (write research paper)
+12. https://www.kipper.ai/  (simply school work)
+13. https://www.getmerlin.in/  (Summarizes PDF)
+14. https://www.perplexity.ai/  (Summarizes PDF)
