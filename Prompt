@@ -41,26 +41,31 @@ opportunities in the [industry/sector]."
 
 Prompt: "Create a comprehensive guide for
 successfully transitioning to a new career in
-[desired field or industry]. Include steps for skills
-assessment, additional training or education
-needed, networking strategies, and tips for
-adapting to a new professional environment."
+[desired field or industry]. Include steps for
+skills assessment, additional training or 
+education needed, networking strategies, 
+and tips for adapting to a new professional 
+environment."
 
 
 
 6. Resume Builder
 
+Step:- A
 Open Chat GPT and give this prompt:
 
+Step:- B
 This is my resume
 {Copy paste your existing
 resume}
 
+Step:- C
 Then 
 {Copy paste the JD of the job that you want to
 apply for and type "this is the role that fam
 applying to."
 
+Step:- D
 caption
 Then use this magic sentence:
 "Highlight 10 key skills or requirements from the JD
