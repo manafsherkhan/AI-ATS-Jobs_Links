@@ -1,1 +1,27 @@
+1. [OWASP TOP 10]
 
+A] Mobile Risks - Top10 
+
+a) Improper Credential Usage
+b) Inadequate Supply chain security
+c) Insecure Authentication/Authorization
+d) Insufficient Input/Output
+e) Insecure communication
+f) Inadequate privacy control
+g) Insufficiant binary protectiom
+h) Security misconfiguration
+i) Insecure data storage
+j) Insufficient Cryptography
+
+B] Web Application - Top10
+
+a) Broken Access control
+b) Cryptographic failure
+c) Injection
+d) Insecure design
+e) Security misconfiguration
+f) Vulnerable and outdated component
+g) Identification and Authentication failure
+h) Software and data Integrity failures
+i) Security logging and monitoring failures
+j) Server - side request forgery (SSRF)
