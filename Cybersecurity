@@ -1,6 +1,6 @@
 1. [OWASP TOP 10]
 
-A] Mobile Risks - Top10 
+A] Mobile Risks - Top10  (2024)
 
 a) Improper Credential Usage
 b) Inadequate Supply chain security
@@ -13,7 +13,7 @@ h) Security misconfiguration
 i) Insecure data storage
 j) Insufficient Cryptography
 
-B] Web Application - Top10
+B] Web Application - Top10  (2021)
 
 a) Broken Access control
 b) Cryptographic failure
